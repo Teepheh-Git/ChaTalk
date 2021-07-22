@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "9947105416",
+    "project_id": "chatalk-58d4a",
+    "storage_bucket": "chatalk-58d4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:9947105416:android:d44b726feabe885ff5373d",
+        "android_client_info": {
+          "package_name": "com.example.chatalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "9947105416-l1d7cg79dhp6epslhr5pie9jva1hc16d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD66qgi41n7_YGw1UNBuuH7n8q8V6SAIUw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "9947105416-l1d7cg79dhp6epslhr5pie9jva1hc16d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
